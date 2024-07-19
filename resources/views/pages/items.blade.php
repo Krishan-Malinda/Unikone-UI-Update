@@ -69,7 +69,7 @@
                 <div class="row">
                     <div class="col my-3 d-flex gap-2 justify-content-start">
                         <button id="loadActive" class="btn btn-secondary">Load Active</button>
-                        <button id="loadInactive" class="btn btn-secondary">Load Active</button>
+                        <button id="loadInactive" class="btn btn-secondary">Load Inactive</button>
                     </div>
                 </div>
 

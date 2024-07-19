@@ -25,3 +25,6 @@ Route::get('/mu', function () {
 Route::get('/i', function () {
     return view('pages.items');
 });
+Route::get('/cso', function () {
+    return view('pages.create-sale-order');
+});
