@@ -22,3 +22,6 @@ Route::get('/se', function () {
 Route::get('/mu', function () {
     return view('pages.manage-users');
 });
+Route::get('/i', function () {
+    return view('pages.items');
+});
