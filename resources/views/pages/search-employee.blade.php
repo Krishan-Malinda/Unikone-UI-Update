@@ -29,8 +29,7 @@
                 <div class="input-group mb-3 d-flex align-items-center"> <span
                         class="input-group-text fa fa-search h-100 d-flex align-items-center" id="basic-addon1"></span>
                     <input type="search" id="searchBox" class="form-control" placeholder="Search...">
-                    <input id="searchBtn" class="btn btn-success" style="border-radius: 5px;" type="submit"
-                        value="Search">
+                    <button id="searchBtn" class="btn btn-success" style="border-radius: 5px;">Search</button>
                 </div>
                 <span class="d-flex justify-content-center flex-wrap gap-1">Please Use <strong>Name,</strong><strong>
                         Employee No,</strong><strong>Phone No,</strong><strong>NIC</strong></span>

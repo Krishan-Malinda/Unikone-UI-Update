@@ -31,3 +31,6 @@ Route::get('/cso', function () {
 Route::get('/uso', function () {
     return view('pages.upload-sale-order');
 });
+Route::get('/sso', function () {
+    return view('pages.search-sale-order');
+});
