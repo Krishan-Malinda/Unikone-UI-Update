@@ -6,24 +6,24 @@
             <form class="input-group p-4 justify-content-center">
                 <div class="d-flex align-items-center justify-content-center flex-wrap gap-4 mb-3">
                     <div class="form-check">
-                        <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-                        <label class="form-check-label" for="flexRadioDefault1">First Name</label>
+                        <input class="form-check-input" type="radio" name="filter" id="firstName">
+                        <label class="form-check-label" for="firstName">First Name</label>
                     </div>
                     <div class="form-check">
-                        <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-                        <label class="form-check-label" for="flexRadioDefault1">Employee No</label>
+                        <input class="form-check-input" type="radio" name="filter" id="employeeNo">
+                        <label class="form-check-label" for="employeeNo">Employee No</label>
                     </div>
                     <div class="form-check">
-                        <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-                        <label class="form-check-label" for="flexRadioDefault1">Phone No</label>
+                        <input class="form-check-input" type="radio" name="filter" id="phoneNo">
+                        <label class="form-check-label" for="phoneNo">Phone No</label>
                     </div>
                     <div class="form-check">
-                        <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-                        <label class="form-check-label" for="flexRadioDefault1">NIC</label>
+                        <input class="form-check-input" type="radio" name="filter" id="nicNo">
+                        <label class="form-check-label" for="nicNo">NIC</label>
                     </div>
                     <div class="form-check">
-                        <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
-                        <label class="form-check-label" for="flexRadioDefault1">Whatsapp No</label>
+                        <input class="form-check-input" type="radio" name="filter" id="whatsappNo">
+                        <label class="form-check-label" for="whatsappNo">Whatsapp No</label>
                     </div>
                 </div>
                 <div class="input-group mb-3 d-flex align-items-center"> <span

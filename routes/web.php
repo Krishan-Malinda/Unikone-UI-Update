@@ -34,3 +34,6 @@ Route::get('/uso', function () {
 Route::get('/sso', function () {
     return view('pages.search-sale-order');
 });
+Route::get('/cmso', function () {
+    return view('pages.complete-sale-order');
+});
