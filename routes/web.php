@@ -28,3 +28,6 @@ Route::get('/i', function () {
 Route::get('/cso', function () {
     return view('pages.create-sale-order');
 });
+Route::get('/uso', function () {
+    return view('pages.upload-sale-order');
+});

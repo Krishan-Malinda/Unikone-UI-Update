@@ -61,8 +61,7 @@
                             class="input-group-text fa fa-search h-100 d-flex align-items-center"
                             id="basic-addon1"></span>
                         <input type="search" id="searchBox" class="form-control" placeholder="Search...">
-                        <input id="searchBtn" class="btn btn-success" style="border-radius: 5px;" type="submit"
-                            value="Search">
+                        <button id="searchBtn" class="btn btn-success" style="border-radius: 5px;">Search</button>
                     </div>
                 </div>
 
