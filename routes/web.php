@@ -37,3 +37,6 @@ Route::get('/sso', function () {
 Route::get('/cmso', function () {
     return view('pages.complete-sale-order');
 });
+Route::get('/sms', function () {
+    return view('pages.send-sms');
+});
