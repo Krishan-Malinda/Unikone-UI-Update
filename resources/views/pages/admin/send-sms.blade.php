@@ -10,7 +10,7 @@
     </div>
 
     <div class="row d-flex justify-content-center gap-4">
-        <div class="col-sm-5 p-3 cRound" style="border: 1px solid #e9ecef; max-width:500px">
+        <div class="col-sm-5 p-3 cRound shadow" style="border: 1px solid #e9ecef; max-width:500px">
             <div class="d-flex align-items-center justify-content-center flex-wrap gap-4 my-3">
                 <div class="form-check">
                     <input class="form-check-input" type="radio" name="filter" id="firstName">
@@ -44,7 +44,7 @@
             </form>
         </div>
 
-        <form class="col-sm-5 p-3 cRound pt-4" style="border: 1px solid #e9ecef; max-width:500px">
+        <form class="col-sm-5 p-3 cRound shadow pt-4" style="border: 1px solid #e9ecef; max-width:500px">
             <label for="msgList" class="form-label">Select Message</label>
                 <select id="msgList" class="form-select mb-3">
                     <option value="" selected disabled>Select Message</option>
