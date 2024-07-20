@@ -17,21 +17,20 @@
                 <div class="menu-title">Employee Master</div>
             </a>
             <ul>
-                <li><a href="ecommerce-shop-grid-view.html">
+                <li><a href="/ce">
                         <ion-icon name="ellipse-outline"></ion-icon>Create Employee
                     </a>
                 </li>
-                <li><a href="ecommerce-shop-list-view.html">
+                <li><a href="/se">
                         <ion-icon name="ellipse-outline"></ion-icon>Search Employee
                     </a>
                 </li>
-                <li><a href="ecommerce-shop-grid-view-top-filter.html">
+                <li><a href="/mu">
                         <ion-icon name="ellipse-outline"></ion-icon>Manage Employee
                     </a>
                 </li>
             </ul>
         </li>
-        {{-- <li class="menu-label">UI Elements</li> --}}
         <li>
             <a href="javascript:;" class="has-arrow">
                 <div class="parent-icon">
@@ -40,7 +39,7 @@
                 <div class="menu-title">Item Master</div>
             </a>
             <ul>
-                <li> <a href="widgets-static-widgets.html">
+                <li> <a href="/i">
                         <ion-icon name="ellipse-outline"></ion-icon>Items
                     </a>
                 </li>
@@ -55,19 +54,19 @@
                 <div class="menu-title">Sales Management</div>
             </a>
             <ul>
-                <li> <a href="component-alerts.html">
+                <li> <a href="/cso">
                         <ion-icon name="ellipse-outline"></ion-icon>Create Sale Order
                     </a>
                 </li>
-                <li> <a href="component-accordions.html">
+                <li> <a href="/uso">
                         <ion-icon name="ellipse-outline"></ion-icon>Upload Sale Order
                     </a>
                 </li>
-                <li> <a href="component-badges.html">
+                <li> <a href="/sso">
                         <ion-icon name="ellipse-outline"></ion-icon>Search Sale Order
                     </a>
                 </li>
-                <li> <a href="component-buttons.html">
+                <li> <a href="cmso">
                         <ion-icon name="ellipse-outline"></ion-icon>Complete Sale Order
                     </a>
                 </li>
@@ -81,19 +80,18 @@
                 <div class="menu-title">Messages</div>
             </a>
             <ul>
-                <li> <a href="icons-line-icons.html">
+                <li> <a href="sms">
                         <ion-icon name="ellipse-outline"></ion-icon>Send SMS
                     </a>
                 </li>
-                <li> <a href="icons-boxicons.html">
+                <li> <a href="push">
                         <ion-icon name="ellipse-outline"></ion-icon>Push Notification
                     </a>
                 </li>
             </ul>
         </li>
-        {{-- <li class="menu-label">Forms & Tables</li> --}}
         <li>
-            <a href="#">
+            <a href="/ud">
                 <div class="parent-icon">
                     <ion-icon name="newspaper-outline"></ion-icon>
                 </div>
@@ -101,7 +99,7 @@
             </a>
         </li>
         <li>
-            <a class="" href="#">
+            <a class="" href="w">
                 <div class="parent-icon">
                     <ion-icon name="wallet-outline"></ion-icon>
                 </div>
