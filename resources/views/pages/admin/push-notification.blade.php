@@ -1,8 +1,8 @@
 <x-page-template>
     <div class="row">
-        <h5 class="mb-1">Send SMS</h5>
+        <h5 class="mb-1">Push Notification</h5>
         <div class="col-12 d-flex justify-content-end">
-            <div class="input-group p-2 w-25">
+            <div class="input-group p-2" style="width: 250px;">
                 <input id="noticeBox" class="form-control mb-3 noticeBox cRound text-center py-1" type="text" readonly
                     placeholder="Message Count">
             </div>
