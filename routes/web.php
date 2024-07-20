@@ -46,3 +46,9 @@ Route::get('/push', function () {
 Route::get('/ud', function () {
     return view('pages.upgrade-downgrade');
 });
+Route::get('/ud', function () {
+    return view('pages.upgrade-downgrade');
+});
+Route::get('/w', function () {
+    return view('pages.wallet');
+});

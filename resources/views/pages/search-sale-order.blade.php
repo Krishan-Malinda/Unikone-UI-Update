@@ -20,7 +20,7 @@
             <button id="uploadBtn" class="btn text-white"
                 style="border-radius: 5px; background-color:#007BFF">Upload</button>
         </div>
-        <button id="uploadBtn" class="btn text-white mb-3 w-25 align-self-center"
+        <button id="uploadBtn" class="btn text-white mb-3 align-self-center text-nowrap"
             style="border-radius: 5px; background-color:#007BFF">Download Excel File</button>
     </div>
     <hr>
