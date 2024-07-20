@@ -1,7 +1,7 @@
 <x-page-template>
     <div class="row">
         <div class="col cRound p-4 d-flex flex-column align-items-center shadow" style="border:1px solid #e9ecef;">
-            <h1 class="text-nowrap">Dilrukshan Jayawardene</h1>
+            <h1 class="text-nowrap">Krishan Malinda</h1>
             <input id="userLabel" class="form-control text-center text-white bg-success" type="text"
                 Value="USC10300 Active" readonly style="max-width: 200px">
         </div>

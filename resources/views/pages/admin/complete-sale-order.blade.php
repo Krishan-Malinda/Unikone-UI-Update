@@ -40,7 +40,7 @@
                 <tbody>
                     <tr>
                         <td>12345</td>
-                        <td>Dilrukshan Jayawardane</td>
+                        <td>Krishan Malinda</td>
                         <td>xxxx</td>
                         <td>xxxx</td>
                         <td>xxxx</td>

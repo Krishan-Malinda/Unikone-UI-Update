@@ -60,7 +60,7 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>Dilrukshan Jayawardane</td>
+                                <td>Krishan Malinda</td>
                                 <td>USD10300</td>
                                 <td>199933710480</td>
                                 <td>Rathnapura</td>
