@@ -43,7 +43,7 @@
             <button class="btn btn-secondary mb-3" id="clearBtn" name="clear">Inactive</button>
             <div class="row justify-content-center tableRow">
                 <div class="table-responsive">
-                    <table id="showTable" class="table table-hover table-bordered table-striped m-0">
+                    <table id="showTable" class="table table-hover table-bordered table-striped align-middle">
                         <thead>
                             <tr class="bg-secondary text-white">
                                 <th scope="col">Name</th>

@@ -27,7 +27,7 @@
 
     <div class="row mt-4 justify-content-center">
         <div class="table-responsive">
-            <table id="showTable" class="table table-hover table-bordered table-striped text-center">
+            <table id="showTable" class="table table-hover table-bordered table-striped text-center align-middle">
                 <thead>
                     <tr class="bg-secondary text-white">
                         <th scope="col">SO No</th>

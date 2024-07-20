@@ -26,7 +26,7 @@
                     </a>
                 </li>
                 <li><a href="/mu">
-                        <ion-icon name="ellipse-outline"></ion-icon>Manage Employee
+                        <ion-icon name="ellipse-outline"></ion-icon>Manage Users
                     </a>
                 </li>
             </ul>

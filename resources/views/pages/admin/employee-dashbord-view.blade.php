@@ -64,7 +64,7 @@
             <h4 class="text-center">Direct Commissions</h4>
             <h3 class="text-center">Total Earnings (Rs):</h3>
             <div class="table-responsive">
-                <table id="directTable" class="table table-hover table-bordered table-striped">
+                <table id="directTable" class="table table-hover table-bordered table-striped align-middle">
                     <thead>
                         <tr class="bg-secondary text-white text-nowrap">
                             <th scope="col" class="text-black">Item Name</th>
@@ -89,7 +89,7 @@
             <h4 class="text-center">Indirect Commissions</h4>
             <h3 class="text-center">Total Earnings (Rs):</h3>
             <div class="table-responsive">
-                <table id="inDirectTable" class="table table-hover table-bordered table-striped">
+                <table id="inDirectTable" class="table table-hover table-bordered table-striped align-middle">
                     <thead>
                         <tr class="bg-secondary text-white text-nowrap">
                             <th scope="col" class="text-black">Item Name</th>
@@ -113,7 +113,7 @@
         <div class="col pt-3 cRound shadow" style="border:1px solid #e9ecef;">
             <h4 class="text-center">Downgrade</h4>
             <div class="table-responsive">
-                <table id="downgradeTable" class="table table-hover table-bordered table-striped">
+                <table id="downgradeTable" class="table table-hover table-bordered table-striped align-middle">
                     <thead>
                         <tr class="bg-secondary text-white text-nowrap">
                             <th scope="col" class="text-black">Employee ID</th>

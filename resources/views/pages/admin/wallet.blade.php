@@ -47,7 +47,7 @@
     </div>
     <div class="row">
         <div class="table-responsive">
-            <table id="showTables" class="table table-hover table-bordered table-striped mb-2">
+            <table id="showTables" class="table table-hover table-bordered table-striped mb-2 align-middle">
                 <thead>
                     <tr class="text-nowrap bg-secondary text-white">
                         <th scope="col">Id</th>

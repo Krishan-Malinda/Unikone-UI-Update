@@ -83,7 +83,7 @@
 
         <div class="col-12 mt-3">
             <div class="table-responsive">
-                <table id="showTable" class="table table-hover table-bordered table-striped">
+                <table id="showTable" class="table table-hover table-bordered table-striped align-middle">
                     <thead>
                         <tr class="bg-secondary text-white">
                             <th scope="col">Item ID</th>

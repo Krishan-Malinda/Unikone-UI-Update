@@ -17,7 +17,7 @@
     <div class="row justify-content-center p-3">
         <h4>Upward Results</h4>
         <div class="table-responsive">
-            <table id="showTable1" class="table table-hover table-bordered table-striped">
+            <table id="showTable1" class="table table-hover table-bordered table-striped align-middle">
                 <thead>
                     <tr class="bg-secondary text-white">
                         <th scope="col">Employee ID</th>
@@ -44,7 +44,7 @@
     <div class="row justify-content-center p-3">
         <h4>Downgrade Results</h4>
         <div class="table-responsive">
-            <table id="showTable2" class="table table-hover table-bordered table-striped">
+            <table id="showTable2" class="table table-hover table-bordered table-striped align-middle">
                 <thead>
                     <tr class="bg-secondary text-white">
                         <th scope="col">Employee ID</th>
