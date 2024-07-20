@@ -40,3 +40,6 @@ Route::get('/cmso', function () {
 Route::get('/sms', function () {
     return view('pages.send-sms');
 });
+Route::get('/push', function () {
+    return view('pages.push-notification');
+});
