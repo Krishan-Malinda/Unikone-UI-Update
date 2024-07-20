@@ -56,6 +56,22 @@ ion-icon {
 	border-radius: 15px;
 }
 
+::selection {
+    background: #b9ffb7;
+    color: #000000;
+}
+
+::-webkit-selection {
+    background: #b9ffb7;
+    color: #000000;
+}
+
+::-moz-selection {
+    background: #b9ffb7;
+    color: #000000;
+}
+
+
 ::placeholder {
     opacity: 0.5 !important;
 }

@@ -369,8 +369,8 @@ caption {
 	text-align: left
 }
 th {
+	text-align: -webkit-match-parent;
 	text-align: inherit;
-	text-align: -webkit-match-parent
 }
 tbody, td, tfoot, th, thead, tr {
 	border-color: inherit;
