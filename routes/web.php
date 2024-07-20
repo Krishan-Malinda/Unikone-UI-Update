@@ -53,7 +53,9 @@ Route::get('/ud', function () {
 Route::get('/w', function () {
     return view('pages.admin.wallet');
 });
-
+Route::get('/wv', function () {
+    return view('pages.admin.wallet-view');
+});
 Route::get('/edv', function () {
     return view('pages.admin.employee-dashbord-view');
 });
