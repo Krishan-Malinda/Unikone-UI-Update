@@ -13,6 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// Admin
 Route::get('/ce', function () {
     return view('pages.admin.create-employee');
 });
@@ -53,6 +54,13 @@ Route::get('/w', function () {
     return view('pages.admin.wallet');
 });
 
+Route::get('/edv', function () {
+    return view('pages.admin.employee-dashbord-view');
+});
+
+
+
+// Employee
 Route::get('/ed', function () {
     return view('pages.employee.employee-dashboard');
 });
