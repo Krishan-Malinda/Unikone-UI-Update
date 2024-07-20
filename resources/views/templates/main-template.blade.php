@@ -47,8 +47,6 @@
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <!--plugins-->
     <script src={{ asset('plugins/perfect-scrollbar/js/perfect-scrollbar.js') }}></script>
-    <script src={{ asset('plugins/apexcharts-bundle/js/apexcharts.min.js') }}></script>
-    <script src={{ asset('plugins/apexcharts-bundle/js/apex-custom.js') }}></script>
 
     <!-- Main JS-->
     <script src={{ asset('js/main.js') }}></script>

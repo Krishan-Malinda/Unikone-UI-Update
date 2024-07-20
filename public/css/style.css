@@ -55,9 +55,6 @@ ion-icon {
 .cRound {
 	border-radius: 15px;
 }
-/* .backTheam {
-	background-color: #8CBC68;
-} */
 
 ::placeholder {
     opacity: 0.5 !important;
