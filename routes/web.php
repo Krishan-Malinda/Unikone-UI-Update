@@ -43,3 +43,6 @@ Route::get('/sms', function () {
 Route::get('/push', function () {
     return view('pages.push-notification');
 });
+Route::get('/ud', function () {
+    return view('pages.upgrade-downgrade');
+});
