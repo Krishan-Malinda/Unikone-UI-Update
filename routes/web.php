@@ -52,3 +52,7 @@ Route::get('/ud', function () {
 Route::get('/w', function () {
     return view('pages.admin.wallet');
 });
+
+Route::get('/ed', function () {
+    return view('pages.employee.employee-dashboard');
+});
