@@ -142,7 +142,6 @@
     </div>
 
     <x-back-to-top-button />
-    <x-switcher />
     <x-overlay />
 
 </x-main-template>
