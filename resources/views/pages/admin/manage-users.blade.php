@@ -106,7 +106,7 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <td>Dilrukshan Jayawardane</td>
+                                <td>Krishan Malinda</td>
                                 <td>EM,CM,SM</td>
                                 <td>
                                     <button class="btn btn-warning text-nowrap">Change Password</button>
